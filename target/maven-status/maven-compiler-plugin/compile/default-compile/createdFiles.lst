@@ -1,0 +1,15 @@
+onlineShop\entity\SalesOrder.class
+onlineShop\entity\BillingAddress.class
+onlineShop\entity\Customer.class
+onlineShop\entity\Cart.class
+onlineShop\controller\RegistrationController.class
+onlineShop\dao\CustomerDao.class
+onlineShop\service\CustomerService.class
+onlineShop\ApplicationConfig.class
+onlineShop\entity\Product.class
+onlineShop\entity\User.class
+onlineShop\entity\Authorities.class
+onlineShop\entity\ShippingAddress.class
+onlineShop\entity\CartItem.class
+onlineShop\Application.class
+onlineShop\controller\HomePageController.class
